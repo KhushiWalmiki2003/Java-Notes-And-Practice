@@ -5,6 +5,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/Java-oops/pom.xml" />
+        <option value="$PROJECT_DIR$/FactoryDesignPattern/pom.xml" />
       </list>
     </option>
   </component>
