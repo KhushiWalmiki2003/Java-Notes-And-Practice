@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/Java-oops/pom.xml" />
         <option value="$PROJECT_DIR$/FactoryDesignPattern/pom.xml" />
+        <option value="$PROJECT_DIR$/Singleton-Design-Pattern/pom.xml" />
       </list>
     </option>
   </component>
